@@ -4,19 +4,12 @@ author: "Gustavo Rojas Andrade"
 date: "`r Sys.Date()`"
 output:
   prettydoc::html_pretty:
-    theme: cayman
+    theme: architect
     highlight: github
 ---
 
+**En la siguiente imagen se muestran algunas de las técnicas del análisis de datos que se ocupan en la labor del científico de datos. Las técnicas (dentro de los círculos blancos) pertenecen a algunos de los rubros que se señlan en las figuras rojizas.**
 
+![](https://github.com/GustavoRoAn/data_techniques/blob/main/Conec.png?raw=true){widht="1000px"}
 
-![]("D:/01_Proyectos/Propios/GitH/data_techniques/Conec.png"){widht="100px"}
-
-
-## New Styles
-
-`html_pretty` currently supports three page themes (`cayman`, `tactile` and
-`architect`), and two syntax highlight styles (`github` and `vignette`).
-The theme and highlight styles can be specified in the document metadata,
-for example:
 
